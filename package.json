@@ -1,6 +1,6 @@
 {
   "name": "json-fn-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Apply a function to a json file and save to a file",
   "license": "MIT",
   "homepage": "https://github.com/dawsonbotsford/json-fn-file#readme",
