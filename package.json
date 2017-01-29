@@ -1,0 +1,42 @@
+{
+  "name": "json-fn-file",
+  "version": "0.0.0",
+  "description": "Apply a function to a json file and save to a file",
+  "license": "MIT",
+  "homepage": "https://github.com/dawsonbotsford/json-fn-file#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsonbotsford/json-fn-file.git"
+  },
+  "author": {
+    "name": "Dawson Botsford",
+    "email": "DawsonBotsford@gmail.com",
+    "url": "dawsonbotsford.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dawsonbotsford/json-fn-file/issues"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dawson"
+  ],
+  "dependencies": {
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "temp-write": "^3.0.0",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true
+  }
+}
