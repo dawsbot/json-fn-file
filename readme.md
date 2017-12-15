@@ -47,7 +47,7 @@ MIT © [Dawson Botsford](http://dawsonbotsford.com)
 
 [npm-image]: https://badge.fury.io/js/json-fn-file.svg
 [npm-url]: https://npmjs.org/package/json-fn-file
-[travis-image]: https://travis-ci.org/dawsonbotsford/json-fn-file.svg?branch=master
-[travis-url]: https://travis-ci.org/dawsonbotsford/json-fn-file
+[travis-image]: https://travis-ci.org/dawsbot/json-fn-file.svg?branch=master
+[travis-url]: https://travis-ci.org/dawsbot/json-fn-file
 [xo-image]: https://img.shields.io/badge/code_style-XO-5ed9c7.svg
 [xo-url]: https://github.com/sindresorhus/xo
